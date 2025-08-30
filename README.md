@@ -11,7 +11,7 @@ This repository contains two machine learning projects:
 Built a regression model to predict house prices based on multiple property features.  
 
 - **Tech Stack**: Python, Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Dataset**: 545 records, 13 features (size, bedrooms, bathrooms, stories, amenities)  
+- **Dataset**: "Housing.csv" (included in this repo)  
 - **Process**:  
   - Data preprocessing (encoding categorical variables, scaling features)  
   - Exploratory Data Analysis (correlation heatmap, feature impact)  
@@ -29,7 +29,7 @@ Built a regression model to predict house prices based on multiple property feat
 Implemented a collaborative filtering-based recommender to suggest movies based on user ratings.  
 
 - **Tech Stack**: Python, Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Dataset**: [MovieLens 100k](https://grouplens.org/datasets/movielens/100k/) (100,000+ ratings across 10,000+ movies)  
+- **Dataset**: "ratings.csv" and "movies.csv" (included in this repo)   
 - **Process**:  
   - Data cleaning & preprocessing  
   - Pivot table creation for user-movie ratings  
